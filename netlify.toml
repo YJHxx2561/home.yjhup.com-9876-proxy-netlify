@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://home.yjhup.com:9876/:splat"
+  status = 200
+  force = true
